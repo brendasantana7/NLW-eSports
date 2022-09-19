@@ -2,3 +2,5 @@
 Projeto desenvolvido durante a 9ª edição da NLW.
 
 ## Meus primeiros passos como desenvolvedora front-end.
+
+<img src="./assets/resultadoFinal.png" />
